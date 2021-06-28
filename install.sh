@@ -1,7 +1,8 @@
 #!/usr/bin/bash
-echo 'MADE BY BlackDevilMHK'|lolcat
 echo ' '
+echo 'MADE BY '|lolcat
 echo ' '
+echo 'BlackDevilMHK'|lolcat|figlet
 echo ' '
 echo 'Please  Wait  A few Minutes...... '|lolcat
 
