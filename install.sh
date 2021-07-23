@@ -1,8 +1,12 @@
 #!/usr/bin/bash
 echo ' '
+pkg i python 
+pip install lolcat
+pkg i figlet -y
+clear
 echo 'MADE BY '|lolcat
 echo ' '
-echo 'BlackDevilMHK'|lolcat|figlet
+echo 'BlackDevilMHK'|figlet|lolcat
 echo ' '
 echo 'Please  Wait  A few Minutes...... '|lolcat
 
